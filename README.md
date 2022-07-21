@@ -23,6 +23,6 @@ The chosen theme consists of a website that was created using HTML and its featu
 ## Result Page 
 ![image4](https://user-images.githubusercontent.com/72439702/180208069-0c7b7f27-7a81-49c6-b0f1-4959ed79bc8f.png)
 
-##Fail Page 
+## Fail Page 
 ![image5](https://user-images.githubusercontent.com/72439702/180208151-13f65f1d-dafe-4373-956d-e08d66010d0a.png)
 
