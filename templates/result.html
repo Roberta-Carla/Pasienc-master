@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>PaSienc</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
+	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+	<link rel="stylesheet" type="text/css" href="vendor/perfect-scrollbar/perfect-scrollbar.css">
+	<link rel="stylesheet" type="text/css" href="../static/css/style3_1.css">
+	<link rel="stylesheet" type="text/css" href="../static/css/style3_2.css">
+	
+
+</head>
+
+
+    <header>
+
+        <div class="d-grid gap-2 col-6 mx-auto h-100"> 
+              <div class="position-relative h-100"> 
+                  <div class="position-absolute ceva"> 
+                    <div style="color:white;position:relative;center:50px;top:40px;"><center><h1>PaSienc</h1> </div></center>
+					<a href ="index.html" class= "btn"><down>Go back home</a></down>
+                  </div> 
+              </div> 
+        </div> 
+
+		
+
+    </header>
+
+
+
+<body style="background-image: url('../static/image/3696093.jpg');">
+	
+	<div class="limiter">
+		<div class="container-table100">
+			<div class="wrap-table100">
+				<div class="table100 ver1 m-b-110">
+					<div class="table100-head">
+						<table>
+							<thead>
+								<tr class="row100 head">
+									<th class="cell100 column1">Event + Name</th>
+									<th class="cell100 column2">When</th>
+									<th class="cell100 column3">Where</th>
+									<th class="cell100 column4">Deadline</th>
+									<th class="cell100 column5">Link</th>
+								</tr>
+							</thead>
+						</table>
+					</div>
+
+					<div class="table100-body js-pscroll">
+						<table>
+							<tbody>
+								<tr class="row100 body">
+									<td class="cell100 column1">IEEE ICHI Healthcare Data 2021</td>
+									<td class="cell100 column2">Aug 9, 2021 - Aug 12, 2021</td>
+									<td class="cell100 column3">Canada, Victoria (online)</td>
+									<td class="cell100 column4">May 11, 2021</td>
+									<td class="cell100 column5">http://healthcaredata.gsu.edu.tr/</td>
+								</tr>
+								<tr class="row100 body">
+									<td class="cell100 column1">18th International Conference on Distributed Computing and Artificial Intelligence</td>
+									<td class="cell100 column2">Oct 6, 2021 - Oct 8, 2021</td>
+									<td class="cell100 column3">Salamanca, Spain</td>
+									<td class="cell100 column4">May 14, 2021</td>
+									<td class="cell100 column5">https://www.dcai-conference.net/</td>
+								</tr>
+
+								<tr class="row100 body">
+									<td class="cell100 column1">11th International Conference on Computer Science, Engineering and Applications</td>
+									<td class="cell100 column2">Jun 19, 2021 - Jun 20, 2021</td>
+									<td class="cell100 column3">Copenhagen, Denmark</td>
+									<td class="cell100 column4">Jun 5, 2021</td>
+									<td class="cell100 column5">https://ccsea2021.org</td>
+								</tr>				
+							</tbody>
+						</table>
+					</div>
+				</div>			
+			</div>
+		</div>
+	</div>
+
+	<script src="./vendor/jquery/jquery-3.2.1.min.js"></script>
+	<script src="./vendor/bootstrap/js/popper.js"></script>
+	<script src="./vendor/bootstrap/js/bootstrap.min.js"></script>
+	<script src="./vendor/select2/select2.min.js"></script>
+	<script src="./vendor/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+	<script>
+		$('.js-pscroll').each(function(){
+			var ps = new PerfectScrollbar(this);
+
+			$(window).on('resize', function(){
+				ps.update();
+			})
+		});
+			
+		
+	</script>
+	<!--<script src="./js/main.js"></script>-->
+	  
+</body>
+</html>

@@ -1,0 +1,552 @@
+id,event,name,location_when,location_where,deadline,link,call_papers,categories
+1,"IEEE ICHI Healthcare Data 2021
+
+IEEE ICHI Healthcare Data 2021",IEEE ICHI2021 - 1st Workshop on Machine Learning in Healthcare Data for Precision Medicine,"Aug 9, 2021 - Aug 12, 2021","Canada, Victoria (online)","May 11, 2021",http://healthcaredata.gsu.edu.tr/,"Precision medicine is a revolutionary advance in current healthcare transitioning from a one-size-fits-all approach towards a data-driven where medical decisions are evidence-based on individual patient characteristics, environment, and lifestyle. Precision medicine is deeply connected to and dependent on data science, specifically machine learning which have proven during recent years to be promising in predicting disease risk from available multidimensional clinical and biological data. In this context, electronic health records (EHRs) offer great promise for accelerating such predictive analysis by identifying similarities among patients based on their medical information, which is a key step in precision medicine. In addition, explanations supporting the output of a ML model are crucial in precision medicine, where experts require far more information from the model than a simple binary prediction for supporting their diagnosis. Therefore, eXplainable Artificial Intelligence (XAI) allows healthcare experts to make reasonable and data-driven decisions to provide more personalized and precise treatments.
+
+
+The general purpose of this workshop in IEEE ICHI 2021 conference is to bring together researchers, academicians and sector employees from different fields and disciplines and provide them an independent platform to exchange information on their researches, ideas and findings about healthcare data and its analytics. It is also aimed to encourage debate on how big data can effectively support the healthcare in terms of diagnosis, treatment and population health, and to develop a common understanding for research conducted in this multidisciplinary field.
+
+
+Topics of interest include, but are not limited to, the following:
+
+Health data collection and analysis for precision medicine
+Electronic health records (EHR) mining
+Pervasive and personalized healthcare information systems and services
+Analysis and visualization of biological and clinical data
+EXplainable Artificial Intelligence (XAI) on healthcare
+Personalized clinical decision support systems
+Context-aware systems in precision medicine
+Machine learning in medical diagnosis and management
+Machine Learning in sensing devices and wearable health information for precision medicine
+Application of big data analysis in precision medicine
+Examples of precision medicine in human disease treatment and prevention","healthcare data, machine learning, computer science, health prediction"
+2,DCAI 2021,DCAI'21: 18th International Conference on Distributed Computing and Artificial Intelligence,"Oct 6, 2021 - Oct 8, 2021","Salamanca, Spain","May 14, 2021",https://www.dcai-conference.net/,"The 18th International Conference on Distributed Computing and Artificial Intelligence 2021 is an annual forum that will bring together ideas, projects, lessons, etc. associated with distributed computing and artificial intelligence, and their application in different areas. This meeting will be held in Salamanca (Spain) within PAAMS'21 in 6th-8th October, 2021.
+
+Nowadays, most computing systems from personal laptops/computers to cluster/grid /cloud computing systems are available for parallel and distributed computing. Distributed computing performs an increasingly important role in modern signal/data processing, information fusion and electronics engineering (e.g. electronic commerce, mobile communications and wireless devices). Particularly, applying artificial intelligence in distributed environments is becoming an element of high added value and economic potential. Research on Intelligent Distributed Systems has matured during the last decade and many effective applications are now deployed. The artificial intelligence is changing our society. Its application in distributed environments, such as the Internet, electronic commerce, mobile communications, wireless devices, distributed computing, and so on is increasing and is becoming an element of high added value and economic potential, both industrial and research. These technologies are changing constantly as a result of the large research and technical effort being undertaken in both universities and businesses. The exchange of ideas between scientists and technicians from both academic and business areas is essential to facilitate the development of systems that meet the demands of today's society. The technology transfer in this field is still a challenge and for that reason this type of contributions will be specially considered in this symposium.
+TOPICS
+At least one of the authors will be required to register and attend the symposium to present the paper in order to include the paper in the conference proceedings.
+
+- Intelligent environments
+- Distributed Algorithms
+- Distributed databases
+- Computer GRID
+- Cloud Computing
+- Edge Computing
+- Fog Computing
+- Multimedia and distributed animation systems
+- Distributed Operating Systems
+- Real Time Systems
+- E-commerce and Electronic Business
+- Distributed applications ICTs: trade, medicine, industry, the Internet, etc...
+- Implementation of AI Bioinformatics
+- Implementation of AI Biotechnology
+- Implementation of AI in the development of mobile devices
+- Distributed Architectures
+- Multiagent Systems
+- High-performance distributed systems
+- Languages, Compilers, planning, load balancing
+- Mobile and wireless systems
+- Security in computer systems
+- Software Engineering and Formal Methods
+- Distributed Intelligent Information Systems
+- Robotics and Control
+- Internet of Things (IoT)
+- Industrial Internet of Things (IIot)
+- Model based reasoning
+- Case based reasoning
+- Reasoning not monotonic
+- Planning and scheduling tasks
+- Qualitative Reasoning
+- Reasoning with uncertainty
+- Temporal and spatial reasoning
+- Other reasoning models
+- Data Analysis and Big Data Techniques
+- Evolutionary Computation
+- Neural networks
+- Learning through reinforcement
+- Other models of learning
+- Applications of AI (TTIA)
+- Logic
+- System support for decision-making
+- Fintech o Financial Technology
+- Intelligent Interaction
+- Knowledge Management
+- Knowledge Representation","artificial intelligence, distributed computing
+"
+3,EMSA 2022,11th International Conference on Embedded Systems and Applications,"Mar 26, 2022 - Mar 27, 2022","Sydney, Australia","Aug 31, 2021",https://ccsea2022.org/emsa/index,"Scope & Topics
+
+11th International Conference on Embedded Systems and Applications (EMSA 2022) will provide an excellent international forum for sharing knowledge and results in theory, methodology and applications of Embedded Systems. The goal of this Conference is to bring together researchers and practitioners from academia and industry to focus on understanding Modern Embedded Systems concepts and establishing new collaborations in these areas.
+
+Authors are solicited to contribute to the conference by submitting articles that illustrate research results, projects, surveying works and industrial experiences that describe significant advances in the areas of Embedded Systems.
+
+
+Topics of interest include, but are not limited to, the following
+
+Application-Specific Processors and Devices
+Business Applications
+Component and Binding Models
+Embedded Computing Education
+Hardware Support
+Embedded Software
+Embedded System and Software
+Embedded System Architecture
+Industrial Practices and Benchmark Suites
+Integration with Business Logic
+Integration with SOA
+Middleware
+Networked Embedded Systems
+Programming Abstractions
+Real-time Systems
+Recent Trends
+Service-Oriented Architectures
+Testing Techniques","embedded systems, applications, middleware, networking"
+4,SMC 2021,"5th International Conference on Soft Computing, Mathematics and Control","Nov 27, 2021 - Nov 28, 2021","Dubai, UAE","Aug 29, 2021",https://cndc2021.org/smc/index,"Scope
+
+5th International Conference on Soft Computing, Mathematics and Control (SMC 2021) will provide an excellent international forum for sharing knowledge and results in theory, methodology and applications impacts and challenges of Soft Computing, Mathematics and Control. The conference documents practical and theoretical results which make a fundamental contribution for the development of Soft Computing, Mathematics and Control. The aim of the conference is to provide a platform to the researchers and practitioners from both academia as well as industry to meet and share cutting-edge development in the field.
+
+Topics of Interest
+
+Abstract Algebra and Applications
+Adaptive Control
+Agriculture, Environment, Health Applications
+Algorithms
+Applications of Modeling in Science and Engineering
+Artificial Neural Networks (ANN)
+Computational Complexity
+Computer Modeling
+Control Theory
+Differential Geometry
+Digital Control
+Discrete Mathematics
+Embedded Systems
+Evolutionary Algorithms
+Fault Detection and Isolation
+Feedback Control
+Functional Analysis
+Fuzzy Logic and Applications
+Fuzzy Set Theory
+Genetic Algorithms
+Genetic Algorithms and Evolutionary Computing
+Graph Theory and Applications
+Hybrid Systems
+Industry, Military, Space Applications
+Linear and Nonlinear Control Systems
+Linear and Nonlinear Programming
+Markov Chains and Applications
+Mathematical Modeling
+Model Predictive Control
+Networked Control Systems
+Neural Networks and Fuzzy Logic
+Neuro-Fuzzy Control
+Numerical Analysis
+Numerical Analysis and Scientific Computing
+Operations Research
+Optimal Control
+Optimization and Optimal Control
+Optimization Theory
+Ordinary and Partial Differential Equations
+Process Control and Instrumentation
+Real and Complex Analysis
+Real-time Issues
+Robust Control
+Scientific Computing
+Set Theory
+Sliding Mode Control
+Soft Computing and Control
+Stochastic Control and Filtering
+Stochastic Modeling
+System Identification and Control
+Systems and Automation
+Topology and Analysis","computing, mathematics, control, neural networks"
+5,IJMIT 2021,International Journal of Managing Information Technology,N/A,N/A,"Sep 4, 2021",http://airccse.org/journal/ijmit/ijmit.html,"Scope and Topics
+
+The International Journal of Managing Information Technology (IJMIT) is a quarterly open access peer-reviewed journal that publishes articles that contribute new results in all areas of the strategic application of information technology (IT) in organizations. The journal focuses on innovative ideas and best practices in using IT to advance organizations – for-profit, non-profit, and governmental. The goal of this journal is to bring together researchers and practitioners from academia, government and industry to focus on understanding both how to use IT to support the strategy and goals of the organization and to employ IT in new ways to foster greater collaboration, communication and information sharing both within the organization and with its stakeholders. The International Journal of Managing Information Technology seeks to establish new collaborations, new best practices, and new theories in these areas
+
+Authors are solicited to contribute to the journal by submitting articles that illustrate research results, projects, surveying works and industrial experiences that describe significant advances in the areas of information technology and management.
+
+Topics of interest include, but are not limited to, the following :
+Education and Information Technology
+Electronic Billing Systems
+Electronic Voting & E-Government Systems
+Environmental Management Technologies
+Financial Market & Trading Technologies
+Financial Risk Management Systems
+Green Technologies
+Health Care Information Systems and Technologies
+High-Definition TV Systems & Standards
+Information Goods & Digital Products
+Information Privacy & Digital Security
+Information Technology for Economic & Social Development
+Location-Based Systems & Services
+Management Fashion Developments
+Market Operations & Exchange Solutions
+Mobile Telecommunication Systems
+Nomadic Computing Service Innovations
+Online Auctions and Market Mechanisms
+Online Instruction & Digital Learning Aids
+Open Software and Systems Innovations
+Service-Oriented Systems & Technologies
+Statistical Methods for Information Technology Adoption
+Technology Ecosystem Forecasting Iools
+Technological Innovation-Led Performance
+Technology Stack, Infrastructure Changes
+Vendor-Managed Inventory, Supply Chain
+Vertical Information Systems Standards
+Web 2.0 Technologies
+Yield Management and Revenue Control","information technology, education, sustainability, management
+"
+6,IJHAS 2021,"International Journal of Humanities, Art and Social Studies",N/A,N/A,"Sep 4, 2021",http://airccse.com/ijhas/index.html,"Call for Papers
+International Journal of Humanities, Art and Social Studies is an open access peer-reviewed journal that publishes articles which contribute new results in all areas of humanities, art and social science. The journal focuses aims to promote interdisciplinary studies in humanities and social science and become the leading journal in humanities and social science in the world. The goal of this journal is to bring together researchers and practitioners from academia and industry to focus on areas of literary and social studies for a cross cultural exploration and subsequent innovation of subjects concerned and establishing new collaborations in these areas. Authors are solicited to contribute to this journal by submitting articles for the development of humanities and social science fields..
+
+Topics of interest include but are not limited to, the following
+Humanities and social science such as anthropology
+Business studies
+Communication studies
+Corporate governance
+Criminology, Cross-cultural studies
+Demography, Development studies
+Economics
+Education
+Language and Linguistics
+History
+Literature
+Performing Art
+Philosophy
+Religion
+Visual Arts
+Anthropology, Area Studies, Archaeology
+Culture and Ethics Studies
+Economics, Ethics, Geography, History
+Gender and Sexuality Studies, Geography
+Industrial relations, Information Science, International relations
+Law, Linguistics, Library science, Linguistics Literature
+Media studies, Methodology
+Paralegal, Performing arts (music, theatre & dance)
+Political science, Philosophy
+Psychology, Population Studies,
+Public administration
+Religious studies
+Social welfare, Sociology
+Women studies and so on","humanities, education, economics, geography"
+7,IJASA 2021 ,The International Journal of Ambient Systems and applications,N/A,N/A,"Aug 28, 2021",http://airccse.org/journal/ijasa/index.html,"Scope and Topics
+The International Journal of Ambient Systems and applications is a quarterly open access peer-reviewed journal that publishes articles which contribute new results in all areas of ambient Systems. The journal focuses on all technical and practical aspects of ambient Systems, networks, technologies and applications. The goal of this journal is to bring together researchers and practitioners from academia and industry to focus on advanced ambient Systems and establishing new collaborations in these areas.
+
+Authors are solicited to contribute to this journal by submitting articles that illustrate research results, projects, surveying works and industrial experiences that describe significant advances in ambient Systems.
+
+Topics of interest include but are not limited to, the following
+Agent Systems, Intelligent Computing and Applications
+Autonomic Networks and Communications
+Cognitive wireless sensor network
+Context awareness, social sensing and inference
+Data Management
+Dependable, Reliable and Autonomic Computing
+Embedded Systems and Software
+Emerging Networking, Tracking and Sensing Technologies
+Ergonomics and product prototyping
+Healthcare Systems
+Intelligent and self-organizing transportation networks & services
+Multimedia and Social Computing
+Multimodal Interfaces
+Service and Semantic Computing
+Service Oriented Computing for Systems & Applications
+Smart Environments and Applications
+Systems Security and Privacy
+Systems Software Engineering
+Ubiquitous Computing and Applications
+Vehicular Networks and Applications","networks, security, software engineering, embedded systems"
+8,SEC 2022,8th International Conference on Software Engineering,"May 28, 2022 - May 29, 2022","Vancouver, Canada","Aug 31, 2021",https://cosit2022.org/sec/index,"Scope & Topics
+
+8th International Conference on Software Engineering (SEC 2022) will provide an excellent international forum for sharing knowledge and results in theory, methodology and applications of Software Engineering and Techniques. The goal of this Conference is to bring together researchers and practitioners from academia and industry to focus on understanding Modern software engineering concepts and establishing new collaborations in these areas.
+
+Authors are solicited to contribute to the Conference by submitting articles that illustrate research results, projects, surveying works and industrial experiences that describe significant advances in the areas of software engineering & Techniques.
+
+Topics of interest include, but are not limited to, the following
+
+Software Engineering
+Advanced Topics in Software Engineering
+Knowledge-based Systems and Formal Methods
+Languages and Formal Methods
+Managing Software Projects
+Multimedia and Visual Software Engineering
+Quality Management
+Search Engines and Information Retrieval
+Software Engineering Decision Making
+Software Engineering Practice
+Software Maintenance and Testing
+The Software Process
+Web Engineering
+Web-based Education Systems and Learning Applications","software engineering, information retrieval, multimedia, software testing"
+9,IJP2P 2021,International Journal of Peer-to-Peer networks,N/A,N/A,"Sep 4, 2021",http://airccse.org/ijp2p/index.html,"Call for Papers
+The International Journal of peer-to-peer networking is a quarterly open access peer-reviewed journal that publishes articles that contribute new results in all areas of P2P Networks. The journal provides a platform to disseminate new ideas and new research, advance theories, and propagate best practices in the area of P2P networking. This will include works that relate to peer-to-peer systems, peer-to-peer applications, grid systems, large-scale distributed systems, and overlay networks. The journal offers a forum in which academics, consultants, and practitioners in a variety of fields can exchange ideas to further research and improve practices in all areas of P2P.
+
+Authors are solicited to contribute to the journal by submitting articles that illustrate research results, projects, surveying works and industrial experiences that describe significant advances in the areas of P2P networks.
+
+Topics of interest include, but are not limited to, the following:
+Advances in Theoretical Foundations of P2P
+Commercial Applications
+Cooperation and Collaboration in P2P Systems
+Delay-tolerant P2P systems
+Higher-level Query Support in P2P Systems
+Mobile P2P
+Overlay Architectures and Topologies
+Overlay Monitoring and Management
+P2P and Wireless Convergence
+P2P Applications and Services
+P2P Economics
+P2P Grids
+P2P Information Retrieval
+P2P overlay Interaction with Underlying Infrastructure
+P2P Systems Over Mobile Networks
+P2P Technology and Sensors
+P2P Workload Characterization and Simulation
+Performance and Robustness of P2P systems
+Protocols and Algorithms for Mobile and Wireless Peer-to-peer Networks
+Security in P2P systems
+Self-Organization in P2P Systems
+Semantic Overlay Networks and Semantic Query Routing in P2P Systems
+Social Networks
+Trust, Reputation and Fairness in P2P Systems
+Ad Hoc and Sensor Networks","networking, distributed systems, communications, technology"
+10,DMSE 2021,2nd International Conference on Data Mining and Software Engineering,"Sep 25, 2021 - Sep 26, 2021","Toronto, Canada","Aug 28, 2021",https://cseit2021.org/dmse/index,"Scope & Topics
+
+2nd International Conference on Data Mining and Software Engineering (DMSE 2021) will provide an excellent international forum for sharing knowledge and results in theory, methodology and applications of Data mining and Software Engineering. The goal of this conference is to bring together researchers and practitioners from academia and industry to focus on understanding Data mining and modern software engineering concepts and establishing new collaborations in these areas.
+
+Authors are solicited to contribute to the conference by submitting articles that illustrate research results, projects, surveying works and industrial experiences that describe significant advances in the areas of data mining and software engineering.
+
+Topics of Interest
+
+Advanced Topics in Software Engineering
+Data Mining Applications
+Data Mining in Modeling, Visualization, Personalization and Recommendation
+Data Mining Systems and Platforms, Efficiency, Scalability and Privacy
+Embedded System and Software
+Foundations, Algorithms, Models, and Theory
+Knowledge Processing
+Knowledge-based Systems and Formal Methods
+Languages and Formal Methods
+Managing Software Projects
+Mining Text, Semi-Structured, Spatio-Temporal, Streaming, Graph, Web, Multimedia
+Multimedia and Visual Software Engineering
+Quality Management
+Search Engines and Information Retrieval
+Software Engineering Decision Making
+Software Engineering Practice
+Software Maintenance and Testing
+Software Process
+Web Engineering
+Web-based Education Systems and Learning Applications","data mining, big data, software engineering, databases"
+11,DKMP 2022,10th International Conference on Data Mining & Knowledge Management Process,"Mar 26, 2022 - Mar 27, 2022","Sydney, Australia","Aug 31, 2021",https://ccsea2022.org/dkmp/index,"Scope & Topics
+
+10th International Conference on Data Mining & Knowledge Management Process (DKMP 2022) will provide an excellent international forum for sharing knowledge and results in theory, methodology and applications of Data Mining and knowledge management process. The goal of this conference is to bring together researchers and practitioners from academia and industry to focus on understanding Modern data mining concepts and establishing new collaborations in these areas.
+
+Authors are solicited to contribute to the conference by submitting articles that illustrate research results, projects, surveying works and industrial experiences that describe significant advances in the areas of Computer Science, Engineering and Applications.
+
+
+Topics of interest include, but are not limited to, the following
+
+Data Mining Foundations
+Parallel and distributed data mining algorithms, Data streams mining, Graph mining, spatial data mining, Text video, multimedia data mining, Web mining, Pre-processing techniques, Visualization, Security and information hiding in data mining
+
+Data Mining Applications
+Databases, Bioinformatics, Biometrics, Image analysis, Financial modeling, Forecasting, Classification, Clustering, Social Networks, Educational data mining
+
+Knowledge Processing
+Data and knowledge representation, Knowledge discovery framework and process, including pre- and post-processing, Integration of data warehousing, OLAP and data mining, Integrating constraints and knowledge in the KDD process, Exploring data analysis, inference of causes, prediction, Evaluating, consolidating, and explaining discovered knowledge, Statistical techniques for generation a robust, consistent data model, Interactive data exploration/visualization and discovery, Languages and interfaces for data mining, Mining Trends, Opportunities and Risks, Mining from low-quality information sources","data mining, knowledge management, databases, biometrics
+"
+12,AI & FL 2021,9th International Conference of Artificial Intelligence and Fuzzy Logic,"Dec 24, 2021 - Dec 25, 2021","Sydney, Australia","Sep 4, 2021",https://cse2021.org/aifl/index,"Scope
+
+9th International Conference of Artificial Intelligence and Fuzzy Logic (AI & FL 2021) provides a forum for researchers who address this issue and to present their work in a peer-reviewed forum. Authors are solicited to contribute to the conference by submitting articles that illustrate research results, projects, surveying works and industrial experiences that describe significant advances in the following areas, but are not limited to these topics only.
+
+Authors are solicited to contribute to this conference by submitting articles that illustrate research results, projects, surveying works and industrial experiences that describe significant advances in the areas of Artificial Intelligence & applications.
+
+Topics of Interest
+
+Artificial Intelligence
+AI Algorithms
+Artificial Intelligence Tools & Applications
+Automatic Control
+Bioinformatics
+Natural Language Processing
+CAD Design & Testing
+Computer Vision and Speech Understanding
+Data Mining and Machine Learning Tools
+Fuzzy Logic
+Heuristic and AI Planning Strategies and Tools
+Computational Theories of Learning
+Hybrid Intelligent Systems
+Information Retrieval
+Intelligent System Architectures
+Knowledge Representation
+Knowledge-based Systems
+Mechatronics
+Multimedia & Cognitive Informatics
+Neural Networks
+Parallel Processing
+Pattern Recognition
+Pervasive Computing and Ambient Intelligence
+Programming Languages
+Recent Trends and Developments
+Robotics
+Soft Computing Theory and Applications
+Software & Hardware Architectures
+Web Intelligence Applications & Search
+Fuzzy Logic
+Semantic Web Techniques and Technologies
+Fuzzy Logic Techniques & Algorithm
+Fuzzy Mathematics
+Fuzzy Measure and Integral
+Type 2 Fuzzy Logic
+Possibility Theory and Imprecise Probability
+Fuzzy Database
+Fuzzy Clustering
+Fuzzy Decision Support System
+Fuzzy Expert System
+Fuzzy Mathematical Programming
+Fuzzy Decision Making and Decision Support Systems
+Fuzzy Modeling and Fuzzy Control of Biotechnological processes
+Fuzzy Neural Systems, Neuro-fuzzy Systems
+Fuzzy Systems Modeling and Identification
+Fuzzy Pattern Recognition
+Fuzzy Process Control
+Fuzzy Reasoning System
+Fuzzy-rule Based System
+Fuzzy System in Multimedia and Web-based Applications
+Fuzzy System Applications in Computer Vision
+Hybrid Fuzzy Systems (Fuzzy-neuro-evolutionary-rough)
+Fuzzy System Applications in E-commerce
+Fuzzy Sets in Bioinformatics
+Fuzzy System Applications in Human-Machine Interface
+Fuzzy System Applications in Robotics
+Fuzzy System Applications in System and Control Engineering","artificial intelligence, fuzzy logic, robotics, natural language processing"
+13,IJCIS 2021,International Journal on Cryptography and Information Security,N/A,N/A,"Aug 28, 2021",https://wireilla.com/ijcis/index.html,"Call for Papers
+International Journal on Cryptography and Information Security (IJCIS) is an open access peer reviewed journal that focuses on cutting-edge results in applied cryptography and Information security. It aims to bring together scientists, researchers and students to exchange novel ideas and results in all aspects of cryptography, coding and Information security.
+
+Topics of Interest :
+Cryptographic protocols
+Cryptography and Coding
+Intractability
+Privacy and authentication
+Key management
+Authentication
+Trust Management
+Quantum cryptography
+Computational Intelligence in Security
+Artificial Immune Systems
+Biological & Evolutionary Computation
+Intelligent Agents and Systems
+Reinforcement & Unsupervised Learning
+Autonomy-Oriented Computing
+Co evolutionary Algorithms
+Fuzzy Systems
+Biometric Security
+Trust models and metrics
+Regulation and Trust Mechanisms
+Data Integrity
+Models for Authentication, Trust and Authorization
+Wireless Network Security
+Information Hiding
+Data & System Integrity
+E- Commerce
+Access Control and Intrusion Detection
+Intrusion Detection and Vulnerability Assessment
+Authentication and Non-repudiation
+Identification and Authentication
+Insider Threats and Countermeasures
+Intrusion Detection & Prevention
+Secure Cloud Computing
+Security Information Systems Architecture and Design and Security Patterns
+Security Management
+Security Requirements (threats, vulnerabilities, risk, formal methods, etc.)
+Sensor and Mobile Ad Hoc Network Security
+Service and Systems Design and Quos Network Security
+Software Security
+Security and Privacy in Mobile Systems
+Security and Privacy in Pervasive/Ubiquitous Computing
+Security and Privacy in Web Services
+Security and Privacy Policies
+Security Area Control
+Security Deployment
+Security Engineering
+Security for Grid Computing
+Security in Distributed Systems","information security, cryptography, security, cloud computing"
+14,KMIS 2021 ,13th International Conference on Knowledge Management and Information Systems,"Oct 25, 2021 - Oct 27, 2021","Valletta, Malta","Jun 25, 2021",http://www.kmis.ic3k.org,"CALL FOR PAPERS
+13th International Conference on Knowledge Management and Information Systems KMIS
+
+website: http://www.kmis.ic3k.org
+
+October 25 - 27, 2021 Online Streaming
+
+
+In Cooperation with: ACM SIGAI, AAAI, AI*IA and GI - SIG KM.
+
+Proceedings will be submitted for indexation by: SCOPUS, Google Scholar, DBLP, Semantic Scholar, Microsoft Academic, EI and Web of Science / Conference Proceedings Citation Index.
+
+
+IMPORTANT DATES:
+
+Regular Paper Submission: May 18, 2021
+Authors Notification (regular papers): July 16, 2021
+Final Regular Paper Submission and Registration: July 30, 2021
+
+
+Position Paper Submission: June 25, 2021
+Authors Notification (position papers): July 30, 2021
+Final Regular Paper Submission and Registration: September 7, 2021
+
+Scope:
+Knowledge Management (KM) is a discipline concerned with the analysis and technical support of practices used in an organization to identify, create, represent, distribute and enable the adoption and leveraging of good practices embedded in collaborative settings and, in particular, in organizational processes. Effective knowledge management is an increasingly important source of competitive advantage, and a key to the success of contemporary organizations, bolstering the collective expertise of its employees and partners. There are several perspectives on KM, but all share the same core components, namely: People, Processes and Technology. Some take a techno-centric focus, in order to enhance knowledge integration and creation; some take an organizational focus, in order to optimize organization design and workflows; some take an ecological focus, where the important aspects are related to people interaction, knowledge and environmental factors as a complex adaptive system similar to a natural ecosystem. An information system (IS) is an organized system for the collection, organization, storage and communication of information. This is of paramount importance to manage organized activities in any kind of enterprise, often referred to as knowledge management (KM), i.e. a multidisciplinary approach to achieve organizational objectives by making the best use of knowledge to support operations, management and decision-making. KMIS aims at becoming a major meeting point for researchers and practitioners interested in the study and application of all perspectives of Knowledge Management and Information Systems.
+
+Conference Topics:
+Area 1: KMIS - International Conference on Knowledge Management and Information Systems
+- KM Strategies and Implementations
+- Knowledge Management Projects
+- Tools and Technologies for Knowledge Management
+- Management and Organisational Issues in Information Systems
+- Intelligent Information Systems
+- Business Intelligence & CRM
+- Big Data and Analytics
+- Information Technology and Information System Research
+- Enterprise Information Systems
+- Business Process Management
+- Ontologies
+- Digital Libraries and Information Systems
+- eGovernment
+- eLearning
+- eCommerce Technology
+- Issues in Computer Information Systems
+- Requirements Engineering
+- Development Frameworks
+- Best Practices & Communities of Practice
+- Collaborative Software
+- Learning Organization & Organizational Learning
+- Social Networks and the Psychological Dimension
+- Communication, Collaboration and Information Sharing
+- Groupware
+- Worflow Systems
+- Information Systems Security and Information Privacy Protection
+- Studies, Metrics & Benchmarks
+- Ethical and Legal Issues of IT
+- Healthcare Information Systems
+- Blockchain Technology and Applications","management, information systems, knowledge management, computer science"
+15,AVC 2021,Advances in Vision Computing: An International Journal,N/A,N/A,"Aug 28, 2021",http://airccse.org/journal/avc/index.html,"Call For Papers
+Vision Computing is a branch of artificial intelligence that focuses on providing computers with the functions typical of human vision. Due to recent advances made in technology, scientists have incorporate portable imagers into computer vision systems that can be connected via wireless networks. Advances in Vision Computing: An International Journal (AVC) is an open access, peer-reviewed journal that publishes articles which contribute new results in all areas of the advanced vision computing. The goal of this journal is to bring together researchers and practitioners from academia and industry to focus on understanding advances in vision computing and establishing new collaborations in these areas. Authors are solicited to contribute to the journal by submitting articles that illustrate research results, projects, surveying works and industrial experiences that describe significant advances in the areas of vision computing.
+Topics of interest include, but are not limited to, the following:
+Machine Vision
+Image Processing and Formation
+Document Imaging in Business
+Pattern Recognition
+Image and Video Understanding
+Applications and Services
+Motion, Tracking and Stereo Vision
+Biometrics
+Machine Intelligence
+Data structures and databases
+Multimedia
+Speech Recognition
+Computational Models
+Mobile Imaging
+Robotic Vision
+Vision-based human-computer interactionComputer Vision
+Machine learning Algorithms
+Machine Learning Applications
+Deep learning","computer vision, image processing, multimedia, pattern recognition"

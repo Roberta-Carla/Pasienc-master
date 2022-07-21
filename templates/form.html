@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+    <head>
+            <title>Pasienc</title>
+            <link rel="stylesheet" href="../static/css/style2.css">
+            <script src="http://code.jquery.com/jquery-1.10.1.min.js">
+            <!--<script src="./js/forms.js"> </script> -->
+            <header>
+                    <div class="d-grid gap-2 col-6 mx-auto h-100">
+                            <div class="position-relative h-100">
+                                    <div class="position-absolute ceva">
+                                        <div style="color:white;position:relative;center: 30px;top:50px;" ><center><h1>PaSienc</h1> </div></center>
+                                        <!--  "{{ url_for('func_form')}}"   -->
+                                    </div>
+                            </div>
+                    </div>
+            </header>
+            <script>
+                    jQuery.validator.setDefaults({
+                        debug: true,
+                        success:  function(label){
+                            label.attr('id', 'valid');
+                        },
+                    });
+                    $( "#myform" ).validate({
+                        rules: {
+                            call_paper: "required",
+                        },
+                        messages: {
+                        
+                            call_paper: {
+                                required: "Please enter a abstract"
+                            },
+                        }
+                    });
+	            </script>
+
+    </head>
+ 
+ <body style="background-image: url(../static/image/3696093.jpg);">
+        <div class="wrapper">
+            <h2>Find the Conference</h2>
+        <div id="error_message">
+     
+     
+     
+  <form method="POST" action="form-handler" name="myForm" onsubmit="return validationForm(this);">
+
+
+   <!-- 
+        <form method="POST" action="form-handler" name="myForm" onsubmit="return validationForm(this);">
+         minlength="10"  -->
+
+
+        <div class="input_field">
+            <label class="form-label">Abstract:</label>
+            <textarea name="call_paper" placeholder="Call of Papers" minlength="10" checked></textarea>
+         </div>
+  
+ <label for="research" id="ceva" name="categories" placeholder="Select field of research">
+              Categories:</label>  
+
+            <div class="container" style="margin-top:5px;">
+              <div class="row">
+                    <div class="col-xs-6">
+                        <div class="well" style="max-height: 100px;overflow: auto;">
+                        <ul class="list-group checked-list-box">
+                              <li class="list-group-item">
+                                        <input type="checkbox" id="f1" name="q1_categories" /> 
+				                        <label class="toggle" for="build"></label>computer science
+                              </li>
+                              <li class="list-group-item" data-checked="true">
+                                            <input type="checkbox" id="f2" name="q2_categories" /> 
+                                            <label class="toggle" for="build" >artificial intelligence</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox"id="f3" name="q3_categories" /> 
+                                            <label class="toggle" for="build">engineering</label></li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f4" name="q4_categories" /> 
+                                            <label class="toggle" for="build">machine learning</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f5" name="q5_categories" /> 
+				                            <label class="toggle" for="build">security</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f6" name="q6_categories" /> 
+				                            <label class="toggle" for="build">education</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f7" name="q7_categories" /> 
+				                            <label class="toggle" for="build">software engineering</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f8" name="q8_categories" /> 
+				                            <label class="toggle" for="build">information technology</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f9" name="q9_categories" /> 
+                                            <label class="toggle" for="build">communications</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox"id="f10" name="q10_categories" /> 
+                                            <label class="toggle" for="build">robotics</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f11" name="q11_categories" /> 
+                                            <label class="toggle" for="build">networking</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f12" name="q12_categories" /> 
+                                            <label class="toggle" for="build">big data</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f13" name="q13_categories" /> 
+                                            <label class="toggle" for="build">cloud computing</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f14" name="q14_categories" /> 
+                                            <label class="toggle" for="build">management</label>
+                             </li>
+                             <li class="list-group-item">
+                                            <input type="checkbox" id="f15" name="q15_categories" /> 
+                                            <label class="toggle" for="build">image processing</label>
+                             </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f16" name="q16_categories" /> 
+                                            <label class="toggle" for="build">multimedia</label>
+                             </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f17" name="q17_categories" /> 
+                                            <label class="toggle" for="build">business</label>
+                             </li>
+                             <li class="list-group-item">
+                                            <input type="checkbox" id="f18" name="q18_categories" /> 
+                                            <label class="toggle" for="build">energy</label>
+                             </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f19" name="q19_categories" /> 
+                                            <label class="toggle" for="build">bioinformatics</label>
+                             </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f20" name="q20_categories" /> 
+                                            <label class="toggle" for="build">databases</label>
+                             </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f21" name="q21_categories" /> 
+                                            <label class="toggle" for="build">humanities</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f22" name="q22_categories" /> 
+                                            <label class="toggle" for="build">computing</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f23" name="q23_categories" /> 
+                                            <label class="toggle" for="build">information systems</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f24" name="q24_categories" /> 
+                                            <label class="toggle" for="build">communication</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f25" name="q25_categories" /> 
+                                            <label class="toggle" for="build">cloud computing</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f26" name="q26_categories" /> 
+                                            <label class="toggle" for="build">automation</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f27" name="q27_categories" /> 
+                                            <label class="toggle" for="build">environment</label>
+                              </li>
+                               <li class="list-group-item">
+                                            <input type="checkbox" id="f28" name="q28_categories"/> 
+                                            <label class="toggle" for="build">wireless</label>
+                                </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f29" name="q29_categories" /> 
+                                            <label class="toggle" for="build">information retrieval</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f30" name="q30_categories" /> 
+                                            <label class="toggle" for="build">electronics</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f31" name="q31_categories" /> 
+                                            <label class="toggle" for="build">internet of things</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f32" name="q32_categories" /> 
+                                            <label class="toggle" for="build">social sciences</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f33" name="q33_categories" /> 
+                                            <label class="toggle" for="build">intelligent systems</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f34" name="q34_categories" /> 
+                                            <label class="toggle" for="build">computational intelligence</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f35" name="q35_categories" /> 
+                                            <label class="toggle" for="build">biomedical engineering</label>
+                              </li>
+
+                               <li class="list-group-item">
+                                            <input type="checkbox" id="f36" name="q36_categories" /> 
+                                            <label class="toggle" for="build">knowledge management</label>
+                               </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f37" name="q37_categories" /> 
+                                            <label class="toggle" for="build">data science</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f38" name="q38_categories" /> 
+                                            <label class="toggle" for="build">applications</label>
+                              </li>
+                              <li class="list-group-item">
+                                            <input type="checkbox" id="f39" name="q39_categories" /> 
+                                            <label class="toggle" for="build">mathematics</label>
+                               </li>
+                               <li class="list-group-item">
+                                            <input type="checkbox" id="f40" name="q40_categories" /> 
+                                            <label class="toggle" for="build">cultural studies</label>
+                               </li>                        
+                            </ul>
+                        </div>
+                    </div>
+            </div>
+    
+    <div class="btn">
+        <input type="submit" value="Submit"> 
+        <!--<button type="submit">Submit</button>-->
+    </div>
+  </form>
+
+    <div class="btn22 ">
+        <a href="index.html" style="color:black;">Go back home</a>
+    </div> 
+
+     <script src="../static/js/forms.js"> </script>
+    </body>
+   <!--<script defer src = "./js/script.js"></script> --> 
+</html>
+
