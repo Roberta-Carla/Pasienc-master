@@ -6,17 +6,21 @@ The chosen theme consists of a website that was created using HTML and its featu
 • The functionalities include Python.<br/>
 • For data storage is used MYSQL(mysqli via PHP).<br/>
 
-## Sign in Page
+
 ![image0](https://user-images.githubusercontent.com/72439702/180206554-b372316f-5673-49cf-802c-cd00eff05566.png)
 ## Main Page-1
 
 ![image1](https://user-images.githubusercontent.com/72439702/180206856-268004d3-ccd4-4655-9a67-ed84a154cebc.png)
-
 ## Main Page-2
-![image2](https://user-images.githubusercontent.com/72438336/127749029-15efca21-1637-436b-a673-049ac0bafe40.PNG)
-## Editing a task
-![3task](https://user-images.githubusercontent.com/72438336/127749030-b1d6e35b-e264-4b7e-bed1-4dcee6539e9c.PNG)
-## Updated task visualization
-![task4](https://user-images.githubusercontent.com/72438336/127749031-54ee5569-ea83-49cd-8a55-d47c2a414891.PNG)
-## Deleting a task
-![task5](https://user-images.githubusercontent.com/72438336/127749032-2f2348e9-4611-4b1d-a627-672f23ae11a2.PNG)
+
+![image2](https://user-images.githubusercontent.com/72439702/180207529-bb9e612b-d1d5-4cc5-bd27-1ad1aa07656e.png)
+## About Page
+
+![image3](https://user-images.githubusercontent.com/72439702/180207685-46cc5dc5-b810-4f53-9346-84cdd959daa1.png)
+## Form Page
+
+![image4](https://user-images.githubusercontent.com/72439702/180208069-0c7b7f27-7a81-49c6-b0f1-4959ed79bc8f.png)
+## Result Page 
+
+![image5](https://user-images.githubusercontent.com/72439702/180208151-13f65f1d-dafe-4373-956d-e08d66010d0a.png)
+##Fail Page 
